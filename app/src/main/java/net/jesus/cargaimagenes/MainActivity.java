@@ -21,4 +21,5 @@ public class MainActivity extends AppCompatActivity {
         objImage = new RequestIma(this);
         objImage.cargaIRequests();
     }
+    //Funcionando al 100% y cargando imagenes en fragmentos
 }
